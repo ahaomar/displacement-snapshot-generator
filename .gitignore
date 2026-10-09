@@ -1,0 +1,4 @@
+output/
+examples/real_p*.png
+scripts/__pycache__/
+.DS_Store
